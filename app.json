@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "baby-photo-editor",
+    "name": "Baby Photo Editor",
     "slug": "baby-photo-editor",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -10,14 +10,17 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "mobi.devsteam.baby_photo_editor",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"

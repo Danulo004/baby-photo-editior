@@ -22,7 +22,7 @@ import {
 function StickersEditor({ route, navigation, ...props }) {
   const { sticker, colorable } = route.params;
 
-  const [color, setColor] = useState("rgb(255,255,255)");
+  const [color, setColor] = useState(colorable ? "rgb(255,255,255)" : null);
   const [opacity, setOpacity] = useState(1);
 
   const windowWidth = Dimensions.get("window").width;

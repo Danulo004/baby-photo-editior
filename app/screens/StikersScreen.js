@@ -77,37 +77,3 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
 });
-
-// const stickers = [
-//   {
-//     id: 0,
-//     title: "every day",
-//     colorable: true,
-//     max: 30,
-//   },
-//   {
-//     id: 1,
-//     title: "due weeks",
-//     colorable: true,
-//     max: undefined,
-//   },
-//   // {
-//   // id: 2,
-//   //   title: "dates",
-//   //   colorable: true,
-//   //   max: undefined,
-//   // },
-
-//   // {
-//   // id: 0,
-//   //   title: "hello",
-//   //   colorable: true,
-//   //   max: undefined,
-//   // },
-//   // {
-//   // id: 0,
-//   //   title: "belly size",
-//   //   colorable: true,
-//   //   max: undefined,
-//   // },
-// ];
