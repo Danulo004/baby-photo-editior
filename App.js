@@ -43,6 +43,7 @@ const initialState = {
   photo_data: null,
   photo_width: null,
   photo_height: null,
+  original_photo: null,
   hue: 0,
   blur: 0,
   sepia: 0,
@@ -71,6 +72,8 @@ const reducer = (state = initialState, action) => {
       };
     case "SET_PHOTO_URI":
       return { ...state, photo_uri: action.uri };
+    case "SET_ORIGINAL_PHOTO":
+      return { ...state, original_photo: action.uri };
     case "SET_PHOTO_DATA":
       return { ...state, photo_data: action.data };
     case "SET_PHOTO_WIDTH":

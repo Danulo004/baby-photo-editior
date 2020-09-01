@@ -60,7 +60,8 @@ function EditorScreen({ navigation, ...props }) {
           />
           <Btn
             func={() => {
-              console.log("Toushed trash");
+              props.setOriginalValues();
+              props.setPhotoUri(props.original_photo);
             }}
             type="SimpleLineIcons"
             name="trash"
@@ -195,7 +196,14 @@ function EditorScreen({ navigation, ...props }) {
     </View>
   );
 }
-export default connect(mapStateToProps)(EditorScreen);
+export default connect(mapStateToProps, mapDispatchToProps)(EditorScreen);
+function mapDispatchToProps(dispatch) {
+  return {
+    setPhotoUri: (uri) => dispatch({ type: "SET_PHOTO_URI", uri: uri }),
+    // setPhotoData: (data) => dispatch({ type: "SET_PHOTO_DATA", data: data }),
+    setOriginalValues: () => dispatch({ type: "SET_ORIGINAL_VALUES" }),
+  };
+}
 
 function mapStateToProps(state) {
   return {
@@ -203,6 +211,7 @@ function mapStateToProps(state) {
     photo_data: state.photo_data,
     photo_width: state.photo_width,
     photo_height: state.photo_height,
+    original_photo: state.original_photo,
     hue: state.hue,
     blur: state.blur,
     sepia: state.sepia,

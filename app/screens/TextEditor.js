@@ -79,7 +79,7 @@ function TextEditor({ route, navigation, ...props }) {
   const _baseScale = new Animated.Value(30);
   const _pinchScale = new Animated.Value(1);
   const _scale = new Animated.multiply(_baseScale, _pinchScale);
-  let _lastScale = 1;
+  let _lastScale = 30;
   const _onPinchGestureEvent = Animated.event(
     [{ nativeEvent: { scale: _pinchScale } }],
     {
@@ -109,7 +109,6 @@ function TextEditor({ route, navigation, ...props }) {
   };
 
   const saveText = () => {
-    console.log("Text saved");
     navigation.push("Save", {
       text: text,
       font: font,

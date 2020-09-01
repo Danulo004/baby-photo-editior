@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "Baby Photo Editor",
+    "description": "Baby photo. Pregnancy and baby photo! Cute baby stickers, baby photos! \nWelcome to Baby Photo Stickers - the best photo editor for moms to create a cute baby photo!",
     "slug": "baby-photo-editor",
     "version": "1.0.0",
     "orientation": "portrait",

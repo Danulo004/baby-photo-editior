@@ -51,6 +51,7 @@ function MainScreen({ navigation, ...props }) {
     if (pickerResult.cancelled == false) {
       props.setPhotoData(pickerResult);
       props.setPhotoUri(pickerResult.uri);
+      props.setOriginalPhoto(pickerResult.uri);
       props.setPhotoWidth(pickerResult.width);
       props.setPhotoHeight(pickerResult.height);
       navigation.push("Editor");
@@ -118,9 +119,7 @@ function MainScreen({ navigation, ...props }) {
 
       <Animated.View style={[styles.footer, { top: posValFooter }]}>
         <Text style={styles.link}>Privacy Policy</Text>
-        <TouchableWithoutFeedback
-          onPress={() => console.log("toogleSideMenue")}
-        >
+        <TouchableWithoutFeedback onPress={() => {}}>
           <SimpleLineIcons name="settings" size={32} color={"#AB9CBE"} />
         </TouchableWithoutFeedback>
       </Animated.View>
@@ -132,6 +131,8 @@ function mapDispatchToProps(dispatch) {
     setPhotoUri: (uri) => dispatch({ type: "SET_PHOTO_URI", uri: uri }),
     setPhotoData: (data) => dispatch({ type: "SET_PHOTO_DATA", data: data }),
     setOriginalValues: () => dispatch({ type: "SET_ORIGINAL_VALUES" }),
+    setOriginalPhoto: (uri) =>
+      dispatch({ type: "SET_ORIGINAL_PHOTO", uri: uri }),
     setPhotoWidth: (width) =>
       dispatch({ type: "SET_PHOTO_WIDTH", width: width }),
     setPhotoHeight: (height) =>

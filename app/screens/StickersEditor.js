@@ -91,7 +91,6 @@ function StickersEditor({ route, navigation, ...props }) {
   };
 
   const saveSticker = () => {
-    console.log("Text saved");
     navigation.push("Save", {
       sticker: sticker,
       color: color,
