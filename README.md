@@ -1,5 +1,5 @@
 # Baby Photo Editior
-![Icon](https://i.pinimg.com/474x/6d/29/61/6d296188007f7853be9744945b9ee16e.jpg | width=100)
+![Icon](https://i.pinimg.com/474x/6d/29/61/6d296188007f7853be9744945b9ee16e.jpg {width=100px})
 
 Baby photo. Pregnancy and baby photo! Cute baby stickers, baby photos!
 Welcome to Baby Photo Stickers - the best photo editor for moms to create a cute baby photo!
@@ -7,7 +7,7 @@ Welcome to Baby Photo Stickers - the best photo editor for moms to create a cute
 ## App screenshots
 
 ### Main menu: 
-![Main menu]()
+![Main menu](https://i.pinimg.com/236x/57/c0/1f/57c01fe6f4cda9b1d76564cd0cc85297.jpg)
 ### Main editor menu: 
 ![Main editor menu](https://i.pinimg.com/474x/08/f0/35/08f035f728652756dad28e61fdf6768e.jpg)
 ### Crop, rotate and mirror screen: 
