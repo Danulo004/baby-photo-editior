@@ -1,22 +1,31 @@
 # Baby Photo Editior
 <img alt="Icon" src="https://i.pinimg.com/474x/6d/29/61/6d296188007f7853be9744945b9ee16e.jpg" width="30%">
 
+Baby photo. Cute stickers and photos!
+Welcome to Baby Photo Stickers - the best photo editor for moms to create a cute baby photo!
+
 [You can find the app on Google Play](https://play.google.com/store/apps/details?id=mobi.devsteam.baby_photo_editor)
 
 ---
 
-Hyphens
-
-***
-
-Asterisks
-
-___
-
-Underscores
-
-Baby photo. Pregnancy and baby photo! Cute baby stickers, baby photos!
-Welcome to Baby Photo Stickers - the best photo editor for moms to create a cute baby photo!
+Functions of the app:
+1. Crop, rotate an image
+2. Mirror reflection of an image
+3. Adding texts and stickers on the image
+⋅⋅⋅There are more than 500 stickers in our app
+⋅⋅⋅There are also more than 25 text fonts
+⋅⋅⋅You can also edit an opacity and color of your add ins
+⋅⋅⋅Rotating and resizing of text and stickers
+4.Different filters like: 
+  hue
+  blur
+  sepia
+  sharpen
+  negative
+  contrast
+  saturation
+  brightness
+  temperature
 
 ## App screenshots
 
