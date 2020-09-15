@@ -13,7 +13,7 @@ Functions of the app:
 2. Mirror reflection of an image
 3. Adding texts and stickers on the image
 
-⋅⋅⋅There are more than 500 stickers in our app⋅⋅
+...⋅⋅⋅There are more than 500 stickers in our app⋅⋅..
 
 ⋅⋅⋅There are also more than 25 text fonts⋅⋅
 
