@@ -7,14 +7,11 @@ Welcome to Baby Photo Stickers - the best photo editor for moms to create a cute
 ## App screenshots
 
 ### Main menu: 
-<img alt="" src="" width="25%">
-![Main menu](https://i.pinimg.com/236x/57/c0/1f/57c01fe6f4cda9b1d76564cd0cc85297.jpg)
+<img alt="Main menu" src="https://i.pinimg.com/236x/57/c0/1f/57c01fe6f4cda9b1d76564cd0cc85297.jpg" width="25%">
 ### Main editor menu: 
-<img alt="" src="" width="25%">
-![Main editor menu](https://i.pinimg.com/474x/08/f0/35/08f035f728652756dad28e61fdf6768e.jpg)
+<img alt="Main editor menu" src="https://i.pinimg.com/474x/08/f0/35/08f035f728652756dad28e61fdf6768e.jpg" width="25%">
 ### Crop, rotate and mirror screen: 
-<img alt="" src="" width="25%">
-![Crop, rotate and mirror screen](https://i.pinimg.com/236x/57/c0/1f/57c01fe6f4cda9b1d76564cd0cc85297.jpg)
+<img alt="Crop, rotate and mirror screen" src="https://i.pinimg.com/236x/57/c0/1f/57c01fe6f4cda9b1d76564cd0cc85297.jpg)" width="25%">
 ### Stickers list screen: 
 <img alt="Stickers list screen" src="https://i.pinimg.com/474x/d1/80/eb/d180eb2f0ad66aeaada7c91068e6a6d9.jpg" width="25%">
 ### Text editor: 
