@@ -1,13 +1,15 @@
 # Baby Photo Editior
 <img alt="Icon" src="https://i.pinimg.com/474x/6d/29/61/6d296188007f7853be9744945b9ee16e.jpg" width="30%">
 
+[I'm an inline-style link](https://www.google.com)
+
 Baby photo. Pregnancy and baby photo! Cute baby stickers, baby photos!
 Welcome to Baby Photo Stickers - the best photo editor for moms to create a cute baby photo!
 
 ## App screenshots
 
 ### Main menu: 
-<img alt="Main menu" src="https://i.pinimg.com/236x/57/c0/1f/57c01fe6f4cda9b1d76564cd0cc85297.jpg" width="25%" style="border: 1px solid black;">
+<img alt="Main menu" src="https://i.pinimg.com/236x/57/c0/1f/57c01fe6f4cda9b1d76564cd0cc85297.jpg" width="25%">
 
 ### Main editor menu: 
 <img alt="Main editor menu" src="https://i.pinimg.com/474x/08/f0/35/08f035f728652756dad28e61fdf6768e.jpg" width="25%">
