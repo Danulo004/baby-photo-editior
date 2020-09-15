@@ -7,7 +7,7 @@ Welcome to Baby Photo Stickers - the best photo editor for moms to create a cute
 ## App screenshots
 
 ### Main menu: 
-<img alt="Main menu" src="https://i.pinimg.com/236x/57/c0/1f/57c01fe6f4cda9b1d76564cd0cc85297.jpg" width="25%" style="border: 1px solid black">
+<img alt="Main menu" src="https://i.pinimg.com/236x/57/c0/1f/57c01fe6f4cda9b1d76564cd0cc85297.jpg" width="25%" style="border: 1px solid black;">
 
 ### Main editor menu: 
 <img alt="Main editor menu" src="https://i.pinimg.com/474x/08/f0/35/08f035f728652756dad28e61fdf6768e.jpg" width="25%">
