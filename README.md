@@ -1,6 +1,5 @@
 # Baby Photo Editior
-<img alt="Icon" src="https://i.pinimg.com/474x/6d/29/61/6d296188007f7853be9744945b9ee16e.jpg" width="48">
-![Icon](https://i.pinimg.com/474x/6d/29/61/6d296188007f7853be9744945b9ee16e.jpg = 250x)
+<img alt="Icon" src="https://i.pinimg.com/474x/6d/29/61/6d296188007f7853be9744945b9ee16e.jpg" width="20%">
 
 Baby photo. Pregnancy and baby photo! Cute baby stickers, baby photos!
 Welcome to Baby Photo Stickers - the best photo editor for moms to create a cute baby photo!
