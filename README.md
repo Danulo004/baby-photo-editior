@@ -8,21 +8,24 @@ Welcome to Baby Photo Stickers - the best photo editor for moms to create a cute
 
 ---
 
-##Functions of the app:
+## Functions of the app:
 <ol>
-  <li>Crop, rotate an image</li>
-  <li>Mirror reflection of an image</li>
-  <li>Adding texts and stickers on the image
+  <li>Crop, rotate an image.</li>
+  <li>Mirror reflection of an image.</li>
+  <li>Adding texts and stickers on the image:
     <ul>
-      <li>There are more than 500 stickers in our app</li>
-      <li>There are also more than 25 text fonts</li>
-      <li>You can also edit an opacity and color of your add ins</li>
-      <li>Rotating and resizing of text and stickers</li>
+      <li>There are more than 500 stickers in our app.</li>
+      <li>There are also more than 25 text fonts.</li>
+      <li>You can also edit an opacity and color of your add ins.</li>
+      <li>Rotating and resizing of text and stickers.</li>
     </ul>
   </li>
   <li>Different filters like: [ hue, blur, sepia, sharpen, negative, contrast, saturation, brightness, temperature]</li>
+  <li>There are prepared presets of filters in our app too.</li>  
+  <li>In the end you can save your image to the gallery or share it with your friends</li>
 </ol>
  
+---
 
 ## App screenshots
 
