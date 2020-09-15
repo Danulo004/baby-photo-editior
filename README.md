@@ -1,7 +1,19 @@
 # Baby Photo Editior
 <img alt="Icon" src="https://i.pinimg.com/474x/6d/29/61/6d296188007f7853be9744945b9ee16e.jpg" width="30%">
 
-[I'm an inline-style link](https://www.google.com)
+[You can find the app on Google Play](https://play.google.com/store/apps/details?id=mobi.devsteam.baby_photo_editor)
+
+---
+
+Hyphens
+
+***
+
+Asterisks
+
+___
+
+Underscores
 
 Baby photo. Pregnancy and baby photo! Cute baby stickers, baby photos!
 Welcome to Baby Photo Stickers - the best photo editor for moms to create a cute baby photo!
