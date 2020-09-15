@@ -12,15 +12,10 @@ Functions of the app:
 1. Crop, rotate an image
 2. Mirror reflection of an image
 3. Adding texts and stickers on the image
-
-...⋅⋅⋅There are more than 500 stickers in our app⋅⋅..
-
-⋅⋅⋅There are also more than 25 text fonts⋅⋅
-
-⋅⋅⋅You can also edit an opacity and color of your add ins⋅⋅
-
-⋅⋅⋅Rotating and resizing of text and stickers⋅⋅
-
+  There are more than 500 stickers in our app
+  There are also more than 25 text fonts
+  You can also edit an opacity and color of your add ins
+  Rotating and resizing of text and stickers
 4.Different filters like: 
   hue
   blur
