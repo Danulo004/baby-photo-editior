@@ -134,7 +134,7 @@ function EditorScreen({ navigation, ...props }) {
         >
           <ImageFilters
             hue={props.hue}
-            blur={props.blur}
+            blur={30}
             sepia={props.sepia}
             sharpen={props.sharpen}
             negative={props.negative}

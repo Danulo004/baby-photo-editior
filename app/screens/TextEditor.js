@@ -23,6 +23,7 @@ import FontPicker from "../components/FontPicker";
 import BackArrowHeader from "../components/BackArrowHeader";
 import { HSVtoRGB } from "../functions";
 import { connect } from "react-redux";
+import SquareSlider from "../components/SquareSlider";
 
 const windowWidth = Dimensions.get("window").width;
 const windowHeight = Dimensions.get("window").height - 160;
@@ -31,7 +32,7 @@ function TextEditor({ route, navigation, ...props }) {
   const [text, setText] = useState("Text");
   const [font, setFont] = useState("AlegreyaSansSC-Light");
   const [fontSize] = useState(30);
-  const [textColor, setTextColor] = useState("rgb(255,255,255)");
+  const [textColor, setTextColor] = useState("#fff");
   const [opacity, setOpacity] = useState(1);
 
   const aspectRatio =
@@ -285,13 +286,19 @@ function TextEditor({ route, navigation, ...props }) {
           />
         </View>
         <View style={styles.hueSliderCont}>
-          <SliderHuePicker
+          <SquareSlider
+            active_color={textColor}
+            func={(color) => {
+              setTextColor(color);
+            }}
+          />
+          {/* <SliderHuePicker
             trackStyle={[{ height: 12 }]}
             onColorChange={(value) => {
               const color = HSVtoRGB(value.h, 1, 1);
               setTextColor(`rgb(${color.r},${color.g},${color.b})`);
             }}
-          />
+          /> */}
         </View>
       </View>
     </View>

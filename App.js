@@ -44,7 +44,7 @@ const initialState = {
   photo_width: null,
   photo_height: null,
   original_photo: null,
-  hue: 0,
+  hue: 1,
   blur: 0,
   sepia: 0,
   sharpen: 0,

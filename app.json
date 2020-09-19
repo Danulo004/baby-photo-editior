@@ -3,15 +3,14 @@
     "name": "Baby Photo Editor",
     "description": "Baby photo. Pregnancy and baby photo! Cute baby stickers, baby photos! \nWelcome to Baby Photo Stickers - the best photo editor for moms to create a cute baby photo!",
     "slug": "baby-photo-editor",
-    "version": "1.0.0",
+    "version": "5.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/icon.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -21,7 +20,13 @@
     },
     "android": {
       "package": "mobi.devsteam.baby_photo_editor",
-      "versionCode": 1
+      "versionCode": 5,
+      "permissions": [
+        "CAMERA",
+        "RECORD_AUDIO",
+        "READ_PHONE_STATE",
+        "READ_CONTACTS"
+      ]
     },
     "web": {
       "favicon": "./assets/favicon.png"

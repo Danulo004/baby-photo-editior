@@ -63,7 +63,7 @@ const filters = [
   {
     id: "108",
     name: "brightness",
-    maxValue: 2.0,
+    maxValue: 5.0,
     icon: "sun",
     type: "Feather",
     original_value: 1,
@@ -80,7 +80,7 @@ const filters = [
     id: "101",
     name: "hue",
     minValue: -1.0,
-    maxValue: 1.0,
+    maxValue: 1,
     icon: "palette-outline",
     type: "MaterialCommunityIcons",
     original_value: 0,
@@ -105,7 +105,7 @@ const filters = [
   {
     id: "103",
     name: "sepia",
-    maxValue: 2.0,
+    maxValue: 5.0,
     icon: "alpha-s-circle-outline",
     type: "MaterialCommunityIcons",
     original_value: 0,
@@ -129,7 +129,7 @@ const filters = [
   {
     id: "104",
     name: "sharpen",
-    maxValue: 2.0,
+    maxValue: 15,
     icon: "triangle-down",
     type: "Entypo",
     original_value: 0,
